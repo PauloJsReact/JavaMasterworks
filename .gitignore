@@ -1,0 +1,10 @@
+# Specific files and folders to ignore
+/.metadata/
+/.project
+
+# Ignore Java build files
+*.class
+
+# Ignore IDE configuration files
+.idea/
+*.iml

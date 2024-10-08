@@ -1,4 +1,4 @@
-# My Java Portfolio 🚀💪
+# My Java Portfolio: A Journey of Growth and Renewal 🚀💪
 
 This is my portfolio where I share my studies and projects in Java. I'm very excited to learn and apply the following topics:
 
